@@ -1,2 +1,2 @@
-# Ki-isel-Matematik-Sitesi
+# Kisisel-Matematik-Sitesi
 HTML ve CSS kullanarak yaptığım ilk proje
